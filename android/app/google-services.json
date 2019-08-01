@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "448026246381",
+    "firebase_url": "https://tour-guide-test-93b8e.firebaseio.com",
+    "project_id": "tour-guide-test-93b8e",
+    "storage_bucket": "tour-guide-test-93b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448026246381:android:ca0521f1fade1a29",
+        "android_client_info": {
+          "package_name": "com.minalouis.tour_guide_guidance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448026246381-riaor92hn12ngrp4ubem8nb0us9unput.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minalouis.tour_guide_guidance",
+            "certificate_hash": "0db37c71f0cae87433f753bccdb6af96451785fe"
+          }
+        },
+        {
+          "client_id": "448026246381-82f7lrocvmq0a8d67bp4rtsrjgu1ihhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uZOeeQtCzlNZyHHwoeBxi2dXwNQdSxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448026246381-82f7lrocvmq0a8d67bp4rtsrjgu1ihhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448026246381:android:e5adb9e10a0e6b6a",
+        "android_client_info": {
+          "package_name": "com.minalouis.tour_guide_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448026246381-kba06vgejs655oocr0bku6vf9k851m8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minalouis.tour_guide_test",
+            "certificate_hash": "0db37c71f0cae87433f753bccdb6af96451785fe"
+          }
+        },
+        {
+          "client_id": "448026246381-82f7lrocvmq0a8d67bp4rtsrjgu1ihhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uZOeeQtCzlNZyHHwoeBxi2dXwNQdSxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448026246381-82f7lrocvmq0a8d67bp4rtsrjgu1ihhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
