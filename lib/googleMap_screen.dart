@@ -175,7 +175,7 @@ class MapSampleState extends State<MapSample> {
                               child: Column(
                                 children: <Widget>[
                                   SearchMapPlaceWidget(
-                                    apiKey: "AIzaSyD8tCdvOoxcR9AeocdHQxPGVwu8KCk6A7o",
+                                    apiKey: YOUR_API_KEY,
                                     location: LatLng(position.latitude, position.longitude),
                                     radius: 30000,
                                     onSelected: (place) async {
